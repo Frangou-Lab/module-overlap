@@ -3,7 +3,7 @@
 //  module_overlap
 //
 //  Created by Denis Musatov on 05/07/2017.
-//  Copyright © 2017 Cellecta. All rights reserved.
+//  Copyright © 2017 Frangou Lab. All rights reserved.
 //
 
 #ifndef OverlapCalculator_hpp
